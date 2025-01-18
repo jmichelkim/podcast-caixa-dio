@@ -2,6 +2,7 @@
 Podcast desenvolvido no bootcamp CAIXA e DIO
 
 Texto do podcast criado pelo Chat GPT.
+Áudio gerado pelo https://elevenlabs.io/.
 
 Estagiário Lucas: Olá, pessoal! Bem-vindos a mais um episódio do podcast Caixa com Você! Eu sou o Lucas, estagiário aqui na CAIXA, e hoje estou com o Eduardo, que é especialista em educação financeira. A gente vai falar sobre um projeto incrível que a CAIXA criou para transformar a vida financeira dos brasileiros: o CAIXA de Prosperidade! Tudo bem, Eduardo?
 
